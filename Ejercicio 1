@@ -1,0 +1,3 @@
+m = "Cadena de Texto"
+print(m)
+print(type(m)) 
